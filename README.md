@@ -1,31 +1,43 @@
-<h1>👋 &nbsp;Olá, eu sou o Mateus, Atualmente estou Cursando Análise e Desenvolvimento de Sistemas</h1>
-<p align="center">
-<a href="https://www.linkedin.com/in/mateus-lopes-pasqueta-784b812a8/"><img src="https://img.shields.io/badge/-Mateus%20Lopes%20Pasqueta-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:Mateuspasquetap@gmail.com"><img src="https://img.shields.io/badge/-Mateuspasquetap@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+# 👋 Olá! Eu sou o Mateus
 
+Seja bem-vindo ao meu GitHub! Aqui você vai encontrar alguns dos projetos que desenvolvi durante meus estudos e por conta própria.
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mateus-lopes-pasqueta-784b812a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:Mateuspasquetap@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+## 🚀 Sobre Mim
 
-- 👨🏻‍💻 &nbsp; 
-Desde jovem, sempre me fascinei por tecnologia e computadores. Meus primeiros contatos foram através do jogo Habbo, onde tive a oportunidade de criar meu próprio servidor e personalizá-lo ao meu gosto. Com o tempo, descobri o Garry's Mod (GMod), onde aprendi um pouco de programação em Lua. Desde então, soube que queria me tornar um programador.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e banco de dados. 
-- 🏎 &nbsp; Sou apaixonado por jogos online, especialmente por Call of Duty. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça!
+Desde jovem, sempre fui apaixonado por tecnologia e computadores. Tudo começou com o jogo Habbo, quando criei e personalizei meu próprio servidor. Mais tarde, conheci o Garry's Mod (GMod) e tive meu primeiro contato com programação usando a linguagem Lua. Foi aí que decidi que queria me tornar programador.
 
+🎓 Concluí o curso de **Análise e Desenvolvimento de Sistemas**, o que reforçou meu interesse por **desenvolvimento web** e **banco de dados**, que hoje são o foco da minha carreira.
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end:</h3>
+📚 Meu próximo objetivo é cursar uma graduação em **Engenharia de Software** ou uma área relacionada para continuar evoluindo.
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+👨‍💻 Sempre busco colocar em prática o que aprendo através de projetos próprios, disponíveis aqui no meu GitHub.
 
+🏎️ No tempo livre, sou fã de jogos online, especialmente **Call of Duty** e **Tibia**, que são minhas formas favoritas de relaxar.
 
+## 🛠 Tech Stack
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+### 💻 Front-end:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/mysql-333333?style=flat&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-333333?style=flat&logo=oracle)
+### 📚 Estudando atualmente:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Back-end e Banco de Dados:
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 
